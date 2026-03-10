@@ -1,3 +1,5 @@
-# latihan_kuis_a
+# Latihan Kuis Praktikum Teknologi Pemrograman Mobile IF-E
 
-A new Flutter project.
+Andhika Kusuma W / 123230041 
+
+Movie
